@@ -8,3 +8,7 @@ This is a basic admin dashboard template with navigation, dashboard, and activit
 - `style.css`: Styles for the dashboard.
 - `script.js`: JavaScript functionality for interactive elements.
 - `images/`: Directory containing image assets.
+
+## Demo
+
+You can view a live demo of the dashboard at: [https://admin-dashboard-html-sp.vercel.app/](https://admin-dashboard-html-sp.vercel.app/)
